@@ -1,0 +1,22 @@
+uuid: 3f836ba2-0be3-43d9-9ecc-cf3fc966193c
+langcode: en
+status: true
+dependencies:
+  module:
+    - apigee_api_catalog
+    - media
+_core:
+  default_config_hash: RFFlSppTBRqtZq6fhS4WQx0pE99ZVnjcABxQIqEbmxo
+id: apidoc.field_image
+field_name: field_image
+entity_type: apidoc
+type: entity_reference
+settings:
+  target_type: media
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

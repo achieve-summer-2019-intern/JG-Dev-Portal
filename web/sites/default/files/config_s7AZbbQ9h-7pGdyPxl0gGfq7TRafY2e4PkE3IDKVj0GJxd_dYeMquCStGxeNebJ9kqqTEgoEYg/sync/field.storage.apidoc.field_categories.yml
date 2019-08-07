@@ -1,0 +1,22 @@
+uuid: f880d35a-020c-47a5-86e2-b4d73c723149
+langcode: en
+status: true
+dependencies:
+  module:
+    - apigee_api_catalog
+    - taxonomy
+_core:
+  default_config_hash: 1If047_ademJ0_EwD1JHFGaGqPnwnjynDAADkJlROrs
+id: apidoc.field_categories
+field_name: field_categories
+entity_type: apidoc
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

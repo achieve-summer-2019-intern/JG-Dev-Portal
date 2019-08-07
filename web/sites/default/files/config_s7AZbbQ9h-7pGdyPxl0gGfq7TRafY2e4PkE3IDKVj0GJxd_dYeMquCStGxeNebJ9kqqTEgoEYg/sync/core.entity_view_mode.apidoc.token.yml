@@ -1,0 +1,10 @@
+uuid: aa5d3c5c-7248-4424-8597-28140626560a
+langcode: en
+status: true
+dependencies:
+  module:
+    - apigee_api_catalog
+id: apidoc.token
+label: Token
+targetEntityType: apidoc
+cache: true
