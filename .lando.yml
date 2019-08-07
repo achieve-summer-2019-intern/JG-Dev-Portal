@@ -1,0 +1,4 @@
+name: dev-portal
+recipe: drupal8
+config:
+  webroot: web
