@@ -4,10 +4,12 @@ module:
   admin_toolbar_links_access_filter: 0
   admin_toolbar_tools: 0
   adminimal_admin_toolbar: 0
+  api_event_hook: 0
   apigee_api_catalog: 0
   apigee_edge: 0
   apigee_edge_apiproduct_rbac: 0
   apigee_edge_debug: 0
+  apigee_edge_teams: 0
   apigee_kickstart_content: 0
   apigee_kickstart_customizer: 0
   apigee_kickstart_enhancement: 0
@@ -28,6 +30,8 @@ module:
   datetime: 0
   dblog: 0
   default_content: 0
+  devel: 0
+  devel_generate: 0
   dynamic_page_cache: 0
   editor: 0
   entity: 0
@@ -41,8 +45,10 @@ module:
   hal: 0
   help: 0
   history: 0
+  hook_event_dispatcher: 0
   image: 0
   key: 0
+  kint: 0
   link: 0
   media: 0
   media_library: 0

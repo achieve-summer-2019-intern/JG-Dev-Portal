@@ -1,0 +1,6 @@
+name: API Hook Form Alter
+description: Alters App API form
+type: module
+core: 8.x
+dependencies:
+  - drupal:hook_event_dispatcher

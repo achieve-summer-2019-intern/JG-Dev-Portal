@@ -1,0 +1,5 @@
+services:
+  drupal_event_hook.hook_form_alter:
+    class: 'Drupal\api_event_hook\EventSubscriber\ApiFormAlterEventSubscriber'
+    tags: 
+      - { name: 'event_subscriber' }

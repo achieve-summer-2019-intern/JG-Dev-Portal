@@ -1,0 +1,8 @@
+uuid: 60a08e19-fc2e-4198-8941-515b3387a091
+langcode: en
+status: true
+dependencies: {  }
+name: 'API Products'
+vid: api_products
+description: 'Apigee Edge API Products'
+weight: 0

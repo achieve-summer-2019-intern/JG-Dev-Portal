@@ -1,0 +1,13 @@
+uuid: 3c1d9c33-d13c-42ec-830e-a8255a65f725
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dMVtZMStY9mETKQzQq1-FhNoS8krOucRillU6iNLYNg
+id: admin
+label: Administrator
+locked: true
+permissions:
+  - team_manage_members
+  - team_app_delete
+  - team_app_update

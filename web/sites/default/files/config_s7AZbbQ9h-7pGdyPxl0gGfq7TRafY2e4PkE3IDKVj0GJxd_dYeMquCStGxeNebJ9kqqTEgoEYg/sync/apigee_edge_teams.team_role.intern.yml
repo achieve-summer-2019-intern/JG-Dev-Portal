@@ -1,0 +1,8 @@
+uuid: 5643ede5-12d4-4669-b187-5ec3373b7361
+langcode: en
+status: true
+dependencies: {  }
+id: intern
+label: Intern
+locked: false
+permissions: {  }
